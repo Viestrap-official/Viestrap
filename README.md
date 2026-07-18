@@ -2,10 +2,10 @@
   <h1>Viestrap</h1>
   <p>An alternative bootstrapper for Roblox, providing extra features and customizability.</p>
 
-  <!-- ĐƯỜNG LINK TẢI ĐỘNG CÔNG KHAI KHÔNG CẦN ĐĂNG NHẬP -->
-  <h1><a href="https://github.com">📥 [ DOWNLOAD VIESTRAP NOW ] 📥</a></h1>
+  <!-- LIÊN KẾT RELEASE ĐÃ SỬA CHUẨN CÔNG KHAI -->
+  <h1>🔗 <a href="https://github.com">TRANG TẢI VIESTRAP CHÍNH THỨC TẠI ĐÂY</a> 🔗</h1>
 
-  <!-- THÔNG ĐIỆP BẮT BUỘC -->
+  <!-- THÔNG ĐIỆP IN HOA NỔI BẬT NHẤT -->
   <h2>🔥 FUCK RBLX VNG 🔥</h2>
 
   <a href="https://github.com">
@@ -14,46 +14,56 @@
   <a href="https://discord.gg">
     <img src="https://shields.io" alt="Discord">
   </a>
+
+  <!-- 📷 ẢNH 1: TÊN FILE 1.PNG ĐẶT Ở ĐẦU BÀI GIỚI THIỆU -->
+  <br><br>
+  <img src="1.png" alt="Viestrap Main Overview" width="100%">
 </div>
 
 ---
 
-### 🚀 Cập nhật quan trọng (Ngày 19/07/2026)
+### 🚀 CẬP NHẬT QUAN TRỌNG (Ngày 19/07/2026)
 > [!IMPORTANT]
 > **TÍNH NĂNG VƯỢT CHẶN KHÔNG GIAN ĐỊA LÝ QUỐC TẾ:** Client này được tích hợp giải pháp tối ưu độc quyền do chính người Việt phát triển, giúp toàn bộ cộng đồng game thủ Việt Nam dễ dàng truy cập trực tiếp vào các server quốc tế, vượt qua hoàn toàn các lệnh chặn truy cập hiện tại từ phía VNG. Mọi người có thể thoải mái tham gia mượt mà vào các tựa game bị giới hạn như **Blox Fruits** và nhiều trò chơi khác mà không gặp bất kỳ trở ngại hay lỗi kết nối nào!
 
----
-
-### Viestrap là gì?
-Viestrap là một trình khởi chạy thay thế cho Roblox Bootstrapper thông thường, tích hợp hàng loạt tính năng độc quyền mà ứng dụng gốc của Roblox không hỗ trợ. Nó hoạt động hoàn toàn độc lập và an toàn.
-
-> [!NOTE]
-> Viestrap yêu cầu hệ thống chạy hệ điều hành Windows 10 trở lên để có thể khởi chạy và sử dụng đầy đủ các tính năng.
+<!-- 📷 ẢNH 2: TÊN FILE 2.PNG ĐẶT DƯỚI ĐOẠN BẢO VƯỢT CHẶN GAME VNG -->
+<div align="center">
+  <img src="2.png" alt="Viestrap Bypass Feature" width="100%">
+</div>
 
 ---
 
-### Tính năng nổi bật
-
-| 🌟 Giao diện sạch sẽ | 🎨 Tùy biến cá nhân hóa |
-| :--- | :--- |
-| Được vận hành bởi hệ thống thư viện WPFUI, Viestrap mang đến một giao diện hiện đại, tối giản giúp bạn tùy biến trải nghiệm một cách dễ dàng nhất mà không bị rối. | Toàn quyền kiểm soát trải nghiệm thị giác của bạn với các bộ giao diện (theme) tùy chỉnh cho cả trình khởi chạy Viestrap và ứng dụng Roblox client. |
-
-| 📊 Thông tin máy chủ | 💬 Discord Rich Presence |
-| :--- | :--- |
-| Xem ngay thông tin thời gian thực cực kỳ chính xác về máy chủ Roblox đang tham gia (như khu vực quốc gia và thời gian hoạt động), được hỗ trợ bởi RoValra API. | Hiển thị trạng thái Discord Rich Presence tùy biến để bạn bè biết bạn đang chơi tựa game nào. Hỗ trợ đầy đủ các chuẩn BloxstrapRPC hiện nay. |
+### 📥 HƯỚNG DẪN TẢI VÀ CÀI ĐẶT CHI TIẾT
+*   **Bước 1:** Ấn vào đường **Link Trang Tải Chính Thức** được ghim ngay ở đầu bài giới thiệu này.
+*   **Bước 2:** Cuộn xuống mục *Assets*, bấm vào tên file **`Viestrap.exe`** để tải tệp tin về máy tính.
+*   **Bước 3:** Tạm thời **Tắt tính năng Real-time Protection** (Bảo vệ thời gian thực) của Windows Defender nếu hệ thống hiện cảnh báo hoặc báo lỗi False Positive (Nhận diện nhầm mã độc).
+*   **Bước 4:** Mở ứng dụng lên và **Enjoy** trải nghiệm game không giới hạn!
 
 ---
 
-### Liên kết mời Viestrap
-Chia sẻ các đường dẫn mời tùy chỉnh của Viestrap để kéo bạn bè vào chung phòng game nhanh chóng — ngay cả khi họ chưa cài đặt ứng dụng Viestrap trên máy tính!
+### 🎨 GIAO DIỆN VÀ TÍNH NĂNG CHI TIẾT
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌟 Giao diện người dùng sạch sẽ</h3>
+      <p>Được vận hành bởi hệ thống thư viện đồ họa hiện đại WPFUI, Viestrap mang đến một giao diện tối giản, trực quan giúp người dùng dễ dàng làm quen và thao tác tinh chỉnh mọi cấu hình hệ thống mà không gặp bất kỳ khó khăn nào.</p>
+      <h3>🎨 Tùy biến phong cách cá nhân</h3>
+      <p>Toàn quyền kiểm soát và cá nhân hóa trải nghiệm thị giác của bạn với các bộ giao diện (theme) màu sắc đa dạng, áp dụng trực tiếp cho cả trình khởi chạy Viestrap và ứng dụng Roblox client gốc.</p>
+      <h3>📊 Thông tin máy chủ chính xác</h3>
+      <p>Hệ thống tự động hiển thị và cập nhật liên tục các thông số thời gian thực về server Roblox bạn đang tham gia như khu vực máy chủ, ping, và thời gian hoạt động uptime thông qua RoValra API.</p>
+    </td>
+    <!-- 📷 ẢNH 3: TÊN FILE 3.PNG NẰM SONG SONG Ở ĐOẠN GIỮA -->
+    <td width="50%" valign="middle">
+      <img src="3.png" alt="Viestrap Features Showcase" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Hướng dẫn cài đặt
-Bạn có thể cài đặt Viestrap theo một trong hai cách cực kỳ đơn giản sau:
-
-1. **Tải trực tiếp:** Ấn vào dòng chữ **DOWNLOAD** ở đầu trang hoặc truy cập vào mục **Releases** trên GitHub và tải về file cài đặt `.exe` mới nhất.
-2. **Sử dụng lệnh Windows Terminal (Winget):**
-   ```bash
-   winget install viestrap
-   ```
+### 🛠️ Cách cài đặt nhanh qua Terminal
+Nếu không muốn tải trực tiếp, bạn cũng có thể mở Windows Terminal lên và dán lệnh sau:
+```bash
+winget install viestrap
+```
