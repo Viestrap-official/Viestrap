@@ -4,7 +4,7 @@
 
   <!-- ĐOẠN ĐẦU TRANG HIỂN THỊ LINK THÔ THEO YÊU CẦU -->
   <h1>📥 DOWNLOAD VIESTRAP NEWEST HERE 📥</h1>
-(https://github.com/jgokok123-cyber/Viestrap/releases/tag/v1.0.0)
+https://github.com/jgokok123-cyber/Viestrap/releases/tag/v1.0.0
 
   <!-- THÔNG ĐIỆP IN HOA NỔI BẬT NHẤT -->
   <h2> 🐿🐿FUCK RBLX VNG🐿🐿 </h2>
