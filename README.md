@@ -8,6 +8,7 @@ https://github.com/jgokok123-cyber/Viestrap/releases/tag/v1.0.0
 
   <!-- THÔNG ĐIỆP IN HOA NỔI BẬT NHẤT -->
   <h2> 🐿🐿FUCK RBLX VNG🐿🐿 </h2>
+  <h2> 🐿🐿link discord sever cho ai có thắc mắc https://discord.gg/dwWsupz7v🐿🐿 </h2>
   <!-- 📷 ẢNH 1: ĐẶT Ở ĐẦU BÀI GIỚI THIỆU -->
   <br><br>
   <img src="1.png" alt="Viestrap Main Overview" width="100%">
