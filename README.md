@@ -2,8 +2,9 @@
   <h1>Viestrap</h1>
   <p>An alternative bootstrapper for Roblox, providing extra features and customizability.</p>
 
-  <!-- LIÊN KẾT RELEASE ĐÃ SỬA CHUẨN CÔNG KHAI -->
-  <h1>🔗 <a href="https://github.com">TRANG TẢI VIESTRAP CHÍNH THỨC TẠI ĐÂY</a> 🔗</h1>
+  <!-- ĐOẠN ĐẦU TRANG THEO YÊU CẦU - HÃY THAY CHỮ ĐƯỜNG_DẪN_RELEASE_CỦA_BẠN Ở DƯỚI -->
+  <h1>📥 DOWNLOAD VIESTRAP NEWEST HERE 📥</h1>
+  <h2>👉 <a href="[ĐƯỜNG_DẪN_RELEASE_CỦA_BẠN](https://github.com/jgokok123-cyber/Viestrap/releases/tag/v1.0.0)">CLICK VÀO ĐÂY ĐỂ TẢI VỀ NGAY</a> 👈</h2>
 
   <!-- THÔNG ĐIỆP IN HOA NỔI BẬT NHẤT -->
   <h2>🔥 FUCK RBLX VNG 🔥</h2>
@@ -15,7 +16,7 @@
     <img src="https://shields.io" alt="Discord">
   </a>
 
-  <!-- 📷 ẢNH 1: TÊN FILE 1.PNG ĐẶT Ở ĐẦU BÀI GIỚI THIỆU -->
+  <!-- 📷 ẢNH 1: ĐẶT Ở ĐẦU BÀI GIỚI THIỆU -->
   <br><br>
   <img src="1.png" alt="Viestrap Main Overview" width="100%">
 </div>
@@ -26,9 +27,9 @@
 > [!IMPORTANT]
 > **TÍNH NĂNG VƯỢT CHẶN KHÔNG GIAN ĐỊA LÝ QUỐC TẾ:** Client này được tích hợp giải pháp tối ưu độc quyền do chính người Việt phát triển, giúp toàn bộ cộng đồng game thủ Việt Nam dễ dàng truy cập trực tiếp vào các server quốc tế, vượt qua hoàn toàn các lệnh chặn truy cập hiện tại từ phía VNG. Mọi người có thể thoải mái tham gia mượt mà vào các tựa game bị giới hạn như **Blox Fruits** và nhiều trò chơi khác mà không gặp bất kỳ trở ngại hay lỗi kết nối nào!
 
-<!-- 📷 ẢNH 2: TÊN FILE 2.PNG ĐẶT DƯỚI ĐOẠN BẢO VƯỢT CHẶN GAME VNG -->
+<!-- 📷 ẢNH 3 (ĐÃ ĐỔI VỊ TRÍ LÊN ĐÂY VÀ ĐỂ RỘNG 100% CHO BẰNG NHAU) -->
 <div align="center">
-  <img src="2.png" alt="Viestrap Bypass Feature" width="100%">
+  <img src="3.png" alt="Viestrap Bypass Feature" width="100%">
 </div>
 
 ---
@@ -53,9 +54,9 @@
       <h3>📊 Thông tin máy chủ chính xác</h3>
       <p>Hệ thống tự động hiển thị và cập nhật liên tục các thông số thời gian thực về server Roblox bạn đang tham gia như khu vực máy chủ, ping, và thời gian hoạt động uptime thông qua RoValra API.</p>
     </td>
-    <!-- 📷 ẢNH 3: TÊN FILE 3.PNG NẰM SONG SONG Ở ĐOẠN GIỮA -->
+    <!-- 📷 ẢNH 2 (ĐÃ ĐỔI VỊ TRÍ XUỐNG ĐOẠN NÀY, ĐỘ RỘNG BẰNG 100% CỦA KHUNG CHỨA) -->
     <td width="50%" valign="middle">
-      <img src="3.png" alt="Viestrap Features Showcase" width="100%">
+      <img src="2.png" alt="Viestrap Features Showcase" width="100%">
     </td>
   </tr>
 </table>
