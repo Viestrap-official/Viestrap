@@ -27,7 +27,7 @@
 ---
 
 ### 📥 HƯỚNG DẪN TẢI VÀ CÀI ĐẶT CHI TIẾT
-*   **Bước 1:** Coppy đường link ở đầu bài giới thiệu này và dán vào trình duyệt để vào trang tải.
+*   **Bước 1:** Mở đường link ở đầu bài giới thiệu này và dán vào trình duyệt để vào trang tải.
 *   **Bước 2:** Cuộn xuống mục *Assets*, bấm vào tên file **`Viestrap.exe`** để tải tệp tin về máy tính.
 *   **Bước 3:** Tạm thời **Tắt tính năng Real-time Protection** (Bảo vệ thời gian thực) của Windows Defender nếu hệ thống hiện cảnh báo hoặc báo lỗi False Positive (Nhận diện sai).
 *   **Bước 4:** Mở ứng dụng lên và **Enjoy** trải nghiệm game không giới hạn!
