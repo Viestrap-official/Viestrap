@@ -25,7 +25,7 @@
 
 ### 🚀 CẬP NHẬT QUAN TRỌNG (Ngày 19/07/2026)
 > [!IMPORTANT]
-> **TÍNH NĂNG VƯỢT CHẶN KHÔNG GIAN ĐỊA LÝ QUỐC TẾ:** Client này được tích hợp giải pháp tối ưu độc quyền do chính người Việt phát triển, giúp toàn bộ cộng đồng game thủ Việt Nam dễ dàng truy cập trực tiếp vào các server quốc tế, vượt qua hoàn toàn các lệnh chặn truy cập hiện tại từ phía VNG. Mọi người có thể thoải mái tham gia mượt mà vào các tựa game bị giới hạn như **Blox Fruits** và nhiều trò chơi khác mà không gặp bất kỳ trở ngại hay lỗi kết nối nào!
+> **TÍNH NĂNG VƯỢT CHẶN KHÔNG GIAN ĐỊA LÝ QUỐC TẾ:** Client này được tích hợp giải pháp tối ưu độc quyền do chính người Việt phát triển, giúp toàn bộ cộng đồng game thủ Việt Nam dễ dàng truy cập trực tiếp vào các server quốc tế, vượt qua hoàn toàn các lệnh chặn truy cập hiện tại từ phía VNG. Mọi người có thể thoải mái tham gia mượt mà vào các tựa game bị giới hạn như **Blox Fruits**,**99 night**,**gag 2** và nhiều trò chơi khác mà không gặp bất kỳ trở ngại hay lỗi kết nối nào!
 
 <!-- 📷 ẢNH 3 -->
 <div align="center">
