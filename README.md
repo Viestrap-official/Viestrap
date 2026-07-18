@@ -8,14 +8,6 @@
 
   <!-- THÔNG ĐIỆP IN HOA NỔI BẬT NHẤT -->
   <h2> FUCK RBLX VNG </h2>
-
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Latest Release">
-  </a>
-  <a href="https://discord.gg">
-    <img src="https://shields.io" alt="Discord">
-  </a>
-
   <!-- 📷 ẢNH 1: ĐẶT Ở ĐẦU BÀI GIỚI THIỆU -->
   <br><br>
   <img src="1.png" alt="Viestrap Main Overview" width="100%">
