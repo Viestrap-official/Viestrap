@@ -6,8 +6,12 @@
 
 <br>
 
-<a href="https://github.com/Viestrap-official/Viestrap/releases/latest">
+<a href="https://github.com/Viestrap-official/Viestrap/releases/tag/v1.0.2">
   <img src="https://img.shields.io/badge/DOWNLOAD-VIESTRAP-success?style=for-the-badge" alt="Download Viestrap">
+</a>
+
+<a href="https://github.com/Viestrap-official/Viestrap/releases/tag/v1.0.2-fix-v1%2Bv2">
+  <img src="https://img.shields.io/badge/DOWNLOAD-FILE_FIX_V1+V2-orange?style=for-the-badge" alt="Download File Fix">
 </a>
 
 <a href="https://discord.gg/dwWsupz7v">
@@ -22,84 +26,106 @@
 
 ---
 
-## 🔧 Viestrap Update V1.0.2 — Fixes & Improvements
+# 🔧 Viestrap Update V1.0.2 — Fixes & Improvements
 
-### 📅 Cập nhật ngày 22/07/2026
+## 📅 Updated: 22/07/2026
 
-### 🛠️ Các thay đổi trong phiên bản 1.0.2
+### 🛠️ Changes
 
-- Added **fflag injector**
-- Fixed lỗi **restart khi mở ứng dụng**
-- Fixed một số trường hợp **False Positive trên VirusTotal**
-- Added file fix dành cho những người dùng gặp lỗi trong quá trình sử dụng
-
-> [!NOTE]
-> Nếu bạn vẫn gặp tình trạng ứng dụng tự restart hoặc phát sinh lỗi khác, vui lòng liên hệ để báo cáo vấn đề.
->
-> Một số lỗi restart có thể xảy ra do sự khác biệt giữa môi trường phát triển Linux và hệ điều hành Windows của người dùng. Vì Viestrap có khả năng can thiệp sâu vào một số thành phần hệ thống để cung cấp các tính năng nâng cao, một số trường hợp không tương thích ngoài dự kiến có thể xảy ra.
->
-> Mình sẽ tiếp tục theo dõi phản hồi từ người dùng và cải thiện độ ổn định trong các phiên bản tiếp theo.
+- Added **FFlag Injector**
+- Fixed application restarting on launch
+- Reduced **VirusTotal False Positives**
+- Improved launcher stability
+- Added **Fix File (V1 + V2)** for users experiencing startup issues
 
 ---
 
-## 🚀 Cập nhật quan trọng (19/07/2026)
+# 📥 File Fix Guide
+
+Nếu Viestrap không hoạt động đúng hoặc gặp lỗi khi khởi động:
+
+1. Tải và cài đặt **Viestrap** trước.
+2. Tải **File Fix V1 + V2**.
+3. Chạy File Fix.
+4. Sau khi chạy xong hãy **Shutdown máy tính** rồi bật lại.
+5. Nếu vẫn còn lỗi, hãy **quay video** và gửi để được hỗ trợ.
+
+> **Ae nào dùng V1 không ăn thua thì tải V2 nhé.**
+
+---
+
+# 🚀 Important Update (19/07/2026)
 
 > [!IMPORTANT]
-> **Tính năng hỗ trợ truy cập server quốc tế:** Viestrap được tích hợp giải pháp tối ưu giúp người dùng tại Việt Nam dễ dàng kết nối trực tiếp tới các máy chủ Roblox quốc tế, hạn chế các lỗi kết nối và tình trạng bị giới hạn truy cập ở một số khu vực.
+> **International Server Support**
 >
-> Điều này giúp trải nghiệm các tựa game như **Blox Fruits**, **99 Nights**, **GAG 2** và nhiều trò chơi khác ổn định và mượt mà hơn.
+> Viestrap includes an optimized solution allowing Vietnamese users to connect directly to Roblox international servers more reliably, reducing connection issues and regional restrictions.
+>
+> Enjoy smoother gameplay on titles such as:
+>
+> - Blox Fruits
+> - 99 Nights
+> - GAG 2
+> - and many more.
 
 <div align="center">
-  <img src="3.png" alt="Viestrap Bypass Feature" width="100%">
+<img src="3.png" width="100%">
 </div>
 
 ---
 
-## 📥 Hướng dẫn tải và cài đặt
+# 📥 Installation
 
-<List marker="decimal" gap={2}><List.Item>Truy cập trang phát hành mới nhất:  
-   👉 <Link url="https://github.com/Viestrap-official/Viestrap/releases/latest" title="https://github.com/Viestrap-official/Viestrap/releases/latest"/>
-  </List.Item><List.Item>Trong mục **Assets**, tải file **Viestrap.exe**.
-  </List.Item><List.Item>Nếu Windows Defender hiển thị cảnh báo *False Positive* (nhận diện nhầm), hãy đảm bảo bạn tải đúng từ trang phát hành chính thức của dự án.
-  </List.Item><List.Item>Chạy ứng dụng và tận hưởng trải nghiệm Roblox với nhiều tùy chọn nâng cao.
-  </List.Item></List>
+1. Download the latest **Viestrap** release.
+2. Run **Viestrap.exe**.
+3. If Windows Defender shows a warning, ensure you downloaded it from the official GitHub Releases page.
+4. Launch Roblox and enjoy.
 
 ---
 
-## 🎨 Giao diện & tính năng
+# ✨ Features
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
 
-### 🌟 Giao diện hiện đại
+<td width="50%" valign="top">
 
-Được xây dựng trên nền tảng **WPFUI**, Viestrap mang đến giao diện trực quan, tối giản và dễ sử dụng cho cả người dùng mới.
+## 🎨 Modern UI
 
-### 🎨 Tùy biến cá nhân hóa
+Built with **WPF UI**, providing a clean and modern experience.
 
-Hỗ trợ nhiều bộ giao diện (theme) và tùy chọn màu sắc, cho phép bạn cá nhân hóa cả trình khởi chạy và Roblox client.
+## ⚙️ Highly Customizable
 
-### 📊 Thông tin máy chủ thời gian thực
+Customize themes, colors and launcher settings.
 
-Hiển thị khu vực server, ping và thời gian hoạt động thông qua **RoValra API**, giúp theo dõi kết nối chính xác hơn.
+## 🌎 Server Information
 
-### ⚡ Hiệu năng tối ưu
+Displays server region, ping and uptime using **RoValra API**.
 
-Tối ưu quy trình khởi chạy để giảm thời gian mở game và cải thiện độ ổn định trong quá trình sử dụng.
+## ⚡ Performance
+
+Optimized startup process for faster Roblox launching.
+
+## 🔧 FFlag Injector
+
+Built-in FFlag Injector with one-click configuration.
 
 </td>
-    <td width="50%" valign="middle">
-      <img src="2.png" alt="Viestrap Features Showcase" width="100%">
-    </td>
-  </tr>
+
+<td width="50%" valign="middle">
+
+<img src="2.png" width="100%">
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-## 🛠️ Cài đặt nhanh bằng Terminal
+# 🛠️ Quick Install
 
-Mở **Windows Terminal** và chạy lệnh sau:
+Open **Windows Terminal** and run:
 
 ```bash
 winget install viestrap
@@ -107,24 +133,24 @@ winget install viestrap
 
 ---
 
-## 💬 Hỗ trợ cộng đồng
+# 💬 Community
 
-Tham gia Discord để nhận hỗ trợ, báo lỗi hoặc trao đổi với cộng đồng người dùng:
+Join our Discord server for support, bug reports and announcements.
 
-👉 **https://discord.gg/dwWsupz7v**
+**Discord:** https://discord.gg/dwWsupz7v
 
 ---
 
-## 📌 Lưu ý
+# 📌 Disclaimer
 
-- Viestrap là dự án cộng đồng và không trực thuộc Roblox Corporation.
-- Luôn tải ứng dụng từ **trang GitHub chính thức** để đảm bảo an toàn.
-- Nếu gặp sự cố sau khi cập nhật Roblox, hãy kiểm tra mục **Releases** để tải phiên bản mới nhất.
+- Viestrap is a community project and is **not affiliated with Roblox Corporation**.
+- Always download from the **official GitHub repository**.
+- Check the **Releases** page after Roblox updates for the latest compatible version.
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by the Vietnamese Roblox community**
+Made with ❤️ by the Vietnamese Roblox Community
 
 </div>
