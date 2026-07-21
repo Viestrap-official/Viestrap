@@ -22,6 +22,26 @@
 
 ---
 
+## 🔧 Viestrap Update V1.0.2 — Fixes & Improvements
+
+### 📅 Cập nhật ngày 22/07/2026
+
+### 🛠️ Các thay đổi trong phiên bản 1.0.2
+
+- Added **fflag injector**
+- Fixed lỗi **restart khi mở ứng dụng**
+- Fixed một số trường hợp **False Positive trên VirusTotal**
+- Added file fix dành cho những người dùng gặp lỗi trong quá trình sử dụng
+
+> [!NOTE]
+> Nếu bạn vẫn gặp tình trạng ứng dụng tự restart hoặc phát sinh lỗi khác, vui lòng liên hệ để báo cáo vấn đề.
+>
+> Một số lỗi restart có thể xảy ra do sự khác biệt giữa môi trường phát triển Linux và hệ điều hành Windows của người dùng. Vì Viestrap có khả năng can thiệp sâu vào một số thành phần hệ thống để cung cấp các tính năng nâng cao, một số trường hợp không tương thích ngoài dự kiến có thể xảy ra.
+>
+> Mình sẽ tiếp tục theo dõi phản hồi từ người dùng và cải thiện độ ổn định trong các phiên bản tiếp theo.
+
+---
+
 ## 🚀 Cập nhật quan trọng (19/07/2026)
 
 > [!IMPORTANT]
