@@ -76,7 +76,7 @@ Nếu Viestrap không hoạt động đúng hoặc gặp lỗi khi khởi độn
 > - Và hàng nghìn trò chơi Roblox khác.
 
 <div align="center">
-<img src="3.png" width="100%">
+<img src="2.png" width="100%">
 </div>
 
 ---
@@ -122,7 +122,7 @@ Tích hợp **FFlag Injector** với khả năng cấu hình chỉ bằng **mộ
 
 <td width="50%" valign="middle">
 
-<img src="2.png" width="100%">
+<img src="3.png" width="100%">
 
 </td>
 
