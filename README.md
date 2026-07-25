@@ -138,19 +138,19 @@ Nếu Viestrap không hoạt động đúng hoặc gặp lỗi khi khởi độn
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h2>🎨 Giao diện hiện đại</h2>
+      <h3>🎨 Giao diện hiện đại</h3>
       <p>Được xây dựng bằng <strong>WPF UI</strong>, mang đến giao diện hiện đại, trực quan và đẹp mắt theo phong cách Windows 11. Thiết kế được tối ưu để mọi tính năng đều dễ dàng tìm kiếm và sử dụng, giúp cả người dùng mới lẫn người dùng lâu năm đều có thể thao tác nhanh chóng.</p>
 
-      <h2>⚙️ Tùy chỉnh linh hoạt</h2>
+      <h3>⚙️ Tùy chỉnh linh hoạt</h3>
       <p>Tùy chỉnh giao diện, màu sắc, chủ đề (Theme) và nhiều thiết lập khác của trình khởi động. Người dùng có thể dễ dàng bật hoặc tắt các tính năng, lưu cấu hình yêu thích và quản lý mọi thiết lập ngay trong giao diện mà không cần chỉnh sửa các tệp cấu hình thủ công.</p>
 
-      <h2>🌎 Thông tin máy chủ</h2>
+      <h3>🌎 Thông tin máy chủ</h3>
       <p>Hiển thị <strong>khu vực máy chủ, Ping và thời gian hoạt động (Uptime)</strong> thông qua <strong>RoValra API</strong>. Nhờ đó người dùng có thể xác định chính xác vị trí máy chủ Roblox đang tham gia để lựa chọn <strong>VPN hoặc Cloudflare WARP</strong> có điểm kết nối gần trung tâm dữ liệu nhất, góp phần tối ưu đường truyền, cải thiện độ ổn định kết nối và mang lại trải nghiệm tốt hơn khi chơi trên các máy chủ quốc tế.</p>
 
-      <h2>⚡ Hiệu năng</h2>
+      <h3>⚡ Hiệu năng</h3>
       <p>Tối ưu quá trình khởi động Roblox giúp thời gian mở game nhanh hơn, giảm các thao tác không cần thiết trong quá trình khởi chạy và mang lại trải nghiệm ổn định hơn sau mỗi lần Roblox cập nhật.</p>
 
-      <h2>🔧 FFlag Injector</h2>
+      <h3>🔧 FFlag Injector</h3>
       <p>Tích hợp <strong>FFlag Injector</strong> với khả năng cấu hình chỉ bằng <strong>một cú nhấp chuột</strong>, không cần chỉnh sửa thủ công các tệp cấu hình Roblox. Bộ FFlag được tối ưu nhằm cải thiện hiệu năng, tăng FPS trong nhiều trường hợp, giảm hiện tượng giật (Stutter), tối ưu tốc độ tải tài nguyên và mang lại trải nghiệm chơi game mượt mà hơn. Các cấu hình được lựa chọn dựa trên quá trình thử nghiệm thực tế và ưu tiên tính ổn định để người dùng có thể sử dụng nhanh chóng mà không cần tự tìm hiểu hàng trăm FFlag khác nhau.</p>
     </td>
     <td width="45%" valign="middle" align="center">
