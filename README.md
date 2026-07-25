@@ -1,14 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6D28D9,30:8B5CF6,65:2563EB,100:06B6D4&text=Viestrap&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=23&pause=1200&duration=2800&center=true&vCenter=true&width=850&color=8B5CF6&lines=Tr%C3%ACnh+kh%E1%BB%9Fi+%C4%91%E1%BB%99ng+Roblox+thay+th%E1%BA%BF;Mang+%C4%91%E1%BA%BFn+nhi%E1%BB%81u+t%C3%ADnh+n%C4%83ng+m%E1%BB%9F+r%E1%BB%99ng;Roblox+International+Experience"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6D28D9,25:8B5CF6,55:4F46E5,80:2563EB,100:06B6D4&text=Viestrap&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Version-v1.0.2-8B5CF6?style=for-the-badge">
-<img src="https://img.shields.io/badge/Platform-Windows-2563EB?style=for-the-badge">
-<img src="https://img.shields.io/badge/Status-Active-06B6D4?style=for-the-badge">
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=23&pause=1200&duration=2800&center=true&vCenter=true&width=850&color=8B5CF6&lines=Tr%C3%ACnh+kh%E1%BB%9Fi+%C4%91%E1%BB%99ng+Roblox+thay+th%E1%BA%BF;Mang+%C4%91%E1%BA%BFn+nhi%E1%BB%81u+t%C3%ADnh+n%C4%83ng+m%E1%BB%9F+r%E1%BB%99ng;Roblox+International+Experience"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Version-v1.0.2-5B5B5B?style=flat-square&labelColor=3A3A3A">
+
+<img src="https://img.shields.io/badge/Platform-Windows-5B5B5B?style=flat-square&labelColor=3A3A3A">
+
+<img src="https://img.shields.io/badge/Status-Active-22C55E?style=flat-square&labelColor=3A3A3A">
 
 <br><br>
 
