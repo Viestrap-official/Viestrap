@@ -1,29 +1,29 @@
 <div align="center">
 
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=180&section=header&text=Viestrap&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=180&section=header&text=Viestrap&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38)" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=180&section=header&text=Viestrap&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
 
   <p align="center">
-    <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-      <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4B0082&center=true&vCenter=true&width=750&height=50&lines=Tr%C3%ACnh+kh%E1%BB%9fi+%C4%91%E1%BB%99ng+Roblox+thay+th%E1%BA%BF!;Mang+%C4%91%E1%BA%BFn+nhi%E1%BB%81u+t%C3%ADnh+n%C4%83ng+m%E1%BB%9F+r%E1%BB%99ng!;Tr%E1%BA%AI+nghi%E1%BB%87m+Roblox+Qu%E1%BB%91c+t%E1%BA%BF+%E1%BB%95n+%C4%91%E1%BB%8Bnh+h%C6%A1n](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4B0082&center=true&vCenter=true&width=750&height=50&lines=Tr%C3%ACnh+kh%E1%BB%9fi+%C4%91%E1%BB%99ng+Roblox+thay+th%E1%BA%BF!;Mang+%C4%91%E1%BA%BFn+nhi%E1%BB%81u+t%C3%ADnh+n%C4%83ng+m%E1%BB%9F+r%E1%BB%99ng!;Tr%E1%BA%AI+nghi%E1%BB%87m+Roblox+Qu%E1%BB%91c+t%E1%BA%BF+%E1%BB%95n+%C4%91%E1%BB%8Bnh+h%C6%A1n)!" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4B0082&center=true&vCenter=true&width=750&height=50&lines=Tr%C3%ACnh+kh%E1%BB%9fi+%C4%91%E1%BB%99ng+Roblox+thay+th%E1%BA%BF!;Mang+%C4%91%E1%BA%BFn+nhi%E1%BB%81u+t%C3%ADnh+n%C4%83ng+m%E1%BB%9F+r%E1%BB%99ng!;Tr%E1%BA%AI+nghi%E1%BB%87m+Roblox+Qu%E1%BB%91c+t%E1%BA%BF+%E1%BB%95n+%C4%91%E1%BB%8Bnh+h%C6%A1n!" alt="Typing SVG" />
     </a>
   </p>
 
   <p>
-    <a href="[https://github.com/Viestrap-official/Viestrap/releases/tag/v1.0.2](https://github.com/Viestrap-official/Viestrap/releases/tag/v1.0.2)">
-      <img src="[https://img.shields.io/badge/DOWNLOAD-VIESTRAP-8A2BE2?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/DOWNLOAD-VIESTRAP-8A2BE2?style=for-the-badge&logo=github&logoColor=white)" alt="Download Viestrap">
+    <a href="https://github.com/Viestrap-official/Viestrap/releases/tag/v1.0.2">
+      <img src="https://img.shields.io/badge/DOWNLOAD-VIESTRAP-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Download Viestrap">
     </a>
-    <a href="[https://github.com/Viestrap-official/Viestrap/releases/tag/v1.0.2-fix-v1%2Bv2](https://github.com/Viestrap-official/Viestrap/releases/tag/v1.0.2-fix-v1%2Bv2)">
-      <img src="[https://img.shields.io/badge/DOWNLOAD-FILE_FIX_V1+V2-0000CD?style=for-the-badge&logo=appveyor&logoColor=white](https://img.shields.io/badge/DOWNLOAD-FILE_FIX_V1+V2-0000CD?style=for-the-badge&logo=appveyor&logoColor=white)" alt="Download File Fix">
+    <a href="https://github.com/Viestrap-official/Viestrap/releases/tag/v1.0.2-fix-v1%2Bv2">
+      <img src="https://img.shields.io/badge/DOWNLOAD-FILE_FIX_V1+V2-0000CD?style=for-the-badge&logo=appveyor&logoColor=white" alt="Download File Fix">
     </a>
-    <a href="[https://discord.gg/dwWsupz7v](https://discord.gg/dwWsupz7v)">
-      <img src="[https://img.shields.io/badge/Discord-Join_Server-4169E1?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/Discord-Join_Server-4169E1?style=for-the-badge&logo=discord&logoColor=white)" alt="Discord Server">
+    <a href="https://discord.gg/dwWsupz7v">
+      <img src="https://img.shields.io/badge/Discord-Join_Server-4169E1?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
     </a>
   </p>
 
   <br>
 
   <p>
-    <img src="[https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)" width="100%">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   </p>
 
   <br>
@@ -39,7 +39,7 @@
 <br>
 
 <div align="center">
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)⚠️_LƯU_Ý_QUAN_TRỌNG-4B0082?style=for-the-badge&logo=visualstudio&logoColor=white" width="100%">
+  <img src="https://img.shields.io/badge/⚠️_LƯU_Ý_QUAN_TRỌNG-4B0082?style=for-the-badge&logo=visualstudio&logoColor=white" width="100%">
 </div>
 
 > [!CAUTION]
@@ -171,47 +171,5 @@ Tích hợp **FFlag Injector** với khả năng cấu hình chỉ bằng **mộ
 
 Mở **Windows Terminal** và chạy:
 
-`winget install viestrap`
-
-<br>
-
----
-
-<br>
-
-# 💬 Cộng đồng
-
-Tham gia máy chủ Discord để nhận hỗ trợ, báo lỗi và cập nhật thông báo mới nhất.
-
-**Discord:** [https://discord.gg/dwWsupz7v](https://discord.gg/dwWsupz7v)
-
-<br>
-
----
-
-<br>
-
-# 📌 Lưu ý
-
-- Viestrap là dự án do cộng đồng phát triển và **không liên kết với Roblox Corporation**.
-- Luôn tải Viestrap từ **GitHub Repository chính thức** để đảm bảo an toàn và nhận được các bản cập nhật mới nhất.
-- Sau mỗi bản cập nhật của Roblox, hãy kiểm tra mục **Releases** để tải phiên bản tương thích mới nhất.
-- Nếu gặp bất kỳ lỗi nào, hãy quay video hoặc chụp ảnh màn hình và gửi vào Discord để đội ngũ phát triển hỗ trợ nhanh nhất.
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-  <img src="[https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)" width="100%">
-
-  <p>
-    <img src="[https://img.shields.io/badge/Made_with-](https://img.shields.io/badge/Made_with-)❤️_by_the_Vietnamese_Roblox_Community-gradient?style=for-the-badge&colorA=4B0082&colorB=0000CD" alt="Footer Badge">
-  </p>
-
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,45,20,11,6&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,45,20,11,6&height=100&section=footer)" width="100%">
-
-</div>
+```bash
+winget install viestrap
