@@ -4,7 +4,7 @@
 
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4B0082&center=true&vCenter=true&width=750&height=50&lines=Tr%C3%ACnh+kh%E1%BB%9fi+%C4%91%E1%BB%99ng+Roblox+thay+th%E1%BA%BF!;Mang+%C4%91%E1%BA%BFn+nhi%E1%BB%81u+t%C3%ADnh+n%C4%83ng+m%E1%BB%9F+r%E1%BB%99ng!;Tr%E1%BA%AI+nghi%E1%BB%87m+Roblox+Qu%E1%BB%91c+t%E1%BA%BF+%E1%BB%95n+%C4%91%E1%BB%8Bnh+h%C6%A1n!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4B0082&center=true&vCenter=true&width=750&height=50&lines=Tr%C3%ACnh+kh%E1%BB%9fi+%C4%91%E1%BB%99ng+Roblox+thay+th%E1%BA%BF!;Mang+%C4%91%E1%BA%BFn+nhi%E1%BB%81u+t%C3%ADnh+n%C4%83ng+m%E1%BB%9F+r%E1%BB%99ng!" alt="Typing SVG" />
     </a>
   </p>
 
@@ -38,12 +38,8 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/⚠️_LƯU_Ý_QUAN_TRỌNG-4B0082?style=for-the-badge&logo=visualstudio&logoColor=white" width="100%">
-</div>
-
-> [!CAUTION]
-> **Ai bật lên mà bị shutdown thì đừng lo, đó là 1 lỗi không nghiêm trọng đâu, nếu bị vậy thì ae đọc kỹ hướng dẫn tải và cách dùng của file fix nhé, cần thì có thể vô sv discord và inbox tài khoản discord của tôi, chúc ae sử dụng tốt !!!**
+# LƯU Ý !!!
+- Ai bật lên mà bị shutdown thì đừng lo, đó là 1 lỗi không nghiêm trọng đâu, nếu bị vậy thì ae đọc kỹ hướng dẫn tải và cách dùng của file fix nhé, cần thì có thể vô sv discord và inbox tài khoản discord của tôi, chúc ae sử dụng tốt !!!
 
 <br>
 
