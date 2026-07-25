@@ -1,4 +1,7 @@
+````markdown
 <div align="center">
+
+<!-- ======================= BANNER ======================= -->
 
 # Viestrap
 
@@ -7,27 +10,55 @@
 <br>
 
 <a href="https://github.com/Viestrap-official/Viestrap/releases/tag/v1.0.2">
-  <img src="https://img.shields.io/badge/DOWNLOAD-VIESTRAP-success?style=for-the-badge" alt="Download Viestrap">
+  <img src="https://img.shields.io/badge/DOWNLOAD-VIESTRAP-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Download Viestrap">
 </a>
 
 <a href="https://github.com/Viestrap-official/Viestrap/releases/tag/v1.0.2-fix-v1%2Bv2">
-  <img src="https://img.shields.io/badge/DOWNLOAD-FILE_FIX_V1+V2-orange?style=for-the-badge" alt="Download File Fix">
+  <img src="https://img.shields.io/badge/DOWNLOAD-FILE_FIX_V1+V2-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Download File Fix">
 </a>
 
 <a href="https://discord.gg/dwWsupz7v">
-  <img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
+  <img src="https://img.shields.io/badge/DISCORD-JOIN_SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
 </a>
 
 <br><br>
 
-<img src="1.png" alt="Viestrap Main Overview" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=22&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Modern+Roblox+Launcher;International+Roblox+Support;Windows+11+Style;FFlag+Injector;Server+Region+Information" />
+
+<br><br>
+
+<img src="1.png" width="100%" alt="Viestrap Main Overview">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:2563EB&height=120&section=footer"/>
 
 </div>
 
 ---
+
+# 📚 Mục lục
+
+- [LƯU Ý !!!](#-lưu-ý-)
+- [🔧 Cập nhật Viestrap V1.0.2 — Sửa lỗi & Cải tiến](#-cập-nhật-viestrap-v102--sửa-lỗi--cải-tiến)
+- [📥 Hướng dẫn File Fix](#-hướng-dẫn-file-fix)
+- [🚀 Cập nhật quan trọng (19/07/2026)](#-cập-nhật-quan-trọng-19072026)
+- [📥 Cài đặt](#-cài-đặt)
+- [✨ Tính năng](#-tính-năng)
+- [🛠️ Cài đặt nhanh](#️-cài-đặt-nhanh)
+- [💬 Cộng đồng](#-cộng-đồng)
+- [📌 Lưu ý](#-lưu-ý)
+
+---
+
 # LƯU Ý !!!
 
-- Ai bật lên mà bị shutdown thì đừng lo, đó là 1 lỗi không nghiêm trọng đâu, nếu bị vậy thì ae đọc kỹ hướng dẫn tải và cách dùng của file fix nhé, cần thì có thể vô sv discord và inbox tài khoản discord của tôi, chúc ae sử dụng tốt !!!
+> [!WARNING]
+>
+> - Ai bật lên mà bị shutdown thì đừng lo, đó là 1 lỗi không nghiêm trọng đâu, nếu bị vậy thì ae đọc kỹ hướng dẫn tải và cách dùng của file fix nhé, cần thì có thể vô sv discord và inbox tài khoản discord của tôi, chúc ae sử dụng tốt !!!
+
+---
+
 # 🔧 Cập nhật Viestrap V1.0.2 — Sửa lỗi & Cải tiến
 
 ## 📅 Cập nhật: 22/07/2026
@@ -43,8 +74,8 @@
 
 # 📥 Hướng dẫn File Fix
 
-Nếu Viestrap không hoạt động đúng hoặc gặp lỗi khi khởi động:
-
+> [!IMPORTANT]
+>
 > **ƯU TIÊN SỬ DỤNG V2 TRƯỚC, SAU ĐÓ MỚI ĐẾN V1.**
 
 1. Tải và cài đặt **Viestrap** trước.
@@ -53,6 +84,8 @@ Nếu Viestrap không hoạt động đúng hoặc gặp lỗi khi khởi độn
 4. Sau khi chạy xong hãy **đợi máy tính tự Shutdown**. Nếu sau tối đa **20 giây** máy vẫn chưa tự tắt, hãy tự Shutdown rồi bật máy lại và thử với **V1**.
 5. Nếu vẫn gặp lỗi, hãy **quay video** và gửi vào Discord để được hỗ trợ.
 
+> [!NOTE]
+>
 > **Nếu V1 không khắc phục được vấn đề, hãy chuyển sang sử dụng V2.**
 
 ---
@@ -76,8 +109,12 @@ Nếu Viestrap không hoạt động đúng hoặc gặp lỗi khi khởi độn
 > - ...
 > - Và hàng nghìn trò chơi Roblox khác.
 
+<br>
+
 <div align="center">
+
 <img src="2.png" width="100%">
+
 </div>
 
 ---
@@ -103,17 +140,25 @@ Nếu Viestrap không hoạt động đúng hoặc gặp lỗi khi khởi độn
 
 Được xây dựng bằng **WPF UI**, mang đến giao diện hiện đại, trực quan và đẹp mắt theo phong cách Windows 11. Thiết kế được tối ưu để mọi tính năng đều dễ dàng tìm kiếm và sử dụng, giúp cả người dùng mới lẫn người dùng lâu năm đều có thể thao tác nhanh chóng.
 
+---
+
 ## ⚙️ Tùy chỉnh linh hoạt
 
 Tùy chỉnh giao diện, màu sắc, chủ đề (Theme) và nhiều thiết lập khác của trình khởi động. Người dùng có thể dễ dàng bật hoặc tắt các tính năng, lưu cấu hình yêu thích và quản lý mọi thiết lập ngay trong giao diện mà không cần chỉnh sửa các tệp cấu hình thủ công.
+
+---
 
 ## 🌎 Thông tin máy chủ
 
 Hiển thị **khu vực máy chủ, Ping và thời gian hoạt động (Uptime)** thông qua **RoValra API**. Nhờ đó người dùng có thể xác định chính xác vị trí máy chủ Roblox đang tham gia để lựa chọn **VPN hoặc Cloudflare WARP** có điểm kết nối gần trung tâm dữ liệu nhất, góp phần tối ưu đường truyền, cải thiện độ ổn định kết nối và mang lại trải nghiệm tốt hơn khi chơi trên các máy chủ quốc tế.
 
+---
+
 ## ⚡ Hiệu năng
 
 Tối ưu quá trình khởi động Roblox giúp thời gian mở game nhanh hơn, giảm các thao tác không cần thiết trong quá trình khởi chạy và mang lại trải nghiệm ổn định hơn sau mỗi lần Roblox cập nhật.
+
+---
 
 ## 🔧 FFlag Injector
 
@@ -134,11 +179,9 @@ Tích hợp **FFlag Injector** với khả năng cấu hình chỉ bằng **mộ
 
 # 🛠️ Cài đặt nhanh
 
-Mở **Windows Terminal** và chạy:
-
 ```bash
 winget install viestrap
-```
+````
 
 ---
 
@@ -152,15 +195,18 @@ Tham gia máy chủ Discord để nhận hỗ trợ, báo lỗi và cập nhật
 
 # 📌 Lưu ý
 
-- Viestrap là dự án do cộng đồng phát triển và **không liên kết với Roblox Corporation**.
-- Luôn tải Viestrap từ **GitHub Repository chính thức** để đảm bảo an toàn và nhận được các bản cập nhật mới nhất.
-- Sau mỗi bản cập nhật của Roblox, hãy kiểm tra mục **Releases** để tải phiên bản tương thích mới nhất.
-- Nếu gặp bất kỳ lỗi nào, hãy quay video hoặc chụp ảnh màn hình và gửi vào Discord để đội ngũ phát triển hỗ trợ nhanh nhất.
+* Viestrap là dự án do cộng đồng phát triển và **không liên kết với Roblox Corporation**.
+* Luôn tải Viestrap từ **GitHub Repository chính thức** để đảm bảo an toàn và nhận được các bản cập nhật mới nhất.
+* Sau mỗi bản cập nhật của Roblox, hãy kiểm tra mục **Releases** để tải phiên bản tương thích mới nhất.
+* Nếu gặp bất kỳ lỗi nào, hãy quay video hoặc chụp ảnh màn hình và gửi vào Discord để đội ngũ phát triển hỗ trợ nhanh nhất.
 
 ---
 
 <div align="center">
 
-Made with ❤️ by the Vietnamese Roblox Community
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:2563EB&height=120&section=header"/>
+
+### Made with ❤️ by the Vietnamese Roblox Community
 
 </div>
+```
