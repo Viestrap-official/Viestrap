@@ -28,7 +28,9 @@
 
   <br>
 
-  <img src="1.png" alt="Viestrap Main Overview" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(75, 0, 130, 0.4);">
+  <div style="max-width: 85%; margin: 0 auto;">
+    <img src="1.png" alt="Viestrap Main Overview" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(75, 0, 130, 0.4);">
+  </div>
 
 </div>
 
@@ -106,7 +108,9 @@ Nếu Viestrap không hoạt động đúng hoặc gặp lỗi khi khởi độn
 <br>
 
 <div align="center">
-  <img src="2.png" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 0, 205, 0.4);">
+  <div style="max-width: 85%; margin: 0 auto;">
+    <img src="2.png" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 0, 205, 0.4);">
+  </div>
 </div>
 
 <br>
@@ -131,9 +135,9 @@ Nếu Viestrap không hoạt động đúng hoặc gặp lỗi khi khởi độn
 
 # ✨ Tính năng
 
-<table> 
+<table width="100%"> 
   <tr> 
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
       
 ## 🎨 Giao diện hiện đại 
 Được xây dựng bằng **WPF UI**, mang đến giao diện hiện đại, trực quan và đẹp mắt theo phong cách Windows 11. Thiết kế được tối ưu để mọi tính năng đều dễ dàng tìm kiếm và sử dụng, giúp cả người dùng mới lẫn người dùng lâu năm đều có thể thao tác nhanh chóng. 
@@ -151,8 +155,8 @@ Tối ưu quá trình khởi động Roblox giúp thời gian mở game nhanh h�
 Tích hợp **FFlag Injector** với khả năng cấu hình chỉ bằng **một cú nhấp chuột**, không cần chỉnh sửa thủ công các tệp cấu hình Roblox. Bộ FFlag được tối ưu nhằm cải thiện hiệu năng, tăng FPS trong nhiều trường hợp, giảm hiện tượng giật (Stutter), tối ưu tốc độ tải tài nguyên và mang lại trải nghiệm chơi game mượt mà hơn. Các cấu hình được lựa chọn dựa trên quá trình thử nghiệm thực tế và ưu tiên tính ổn định để người dùng có thể sử dụng nhanh chóng mà không cần tự tìm hiểu hàng trăm FFlag khác nhau. 
 
     </td> 
-    <td width="50%" valign="middle">
-      <img src="3.png" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(75, 0, 130, 0.4);">
+    <td width="45%" valign="middle" align="center">
+      <img src="3.png" width="85%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(75, 0, 130, 0.4);">
     </td> 
   </tr> 
 </table>
