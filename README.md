@@ -1,44 +1,21 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=180&section=header&text=Viestrap&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6D28D9,30:8B5CF6,65:2563EB,100:06B6D4&text=Viestrap&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn"/>
 
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4B0082&center=true&vCenter=true&width=750&height=50&lines=Tr%C3%ACnh+kh%E1%BB%9fi+%C4%91%E1%BB%99ng+Roblox+thay+th%E1%BA%BF!;Mang+%C4%91%E1%BA%BFn+nhi%E1%BB%81u+t%C3%ADnh+n%C4%83ng+m%E1%BB%9F+r%E1%BB%99ng!" alt="Typing SVG" />
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/Viestrap-official/Viestrap/releases/tag/v1.0.2">
-      <img src="https://img.shields.io/badge/DOWNLOAD-VIESTRAP-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Download Viestrap">
-    </a>
-    <a href="https://github.com/Viestrap-official/Viestrap/releases/tag/v1.0.2-fix-v1%2Bv2">
-      <img src="https://img.shields.io/badge/DOWNLOAD-FILE_FIX_V1+V2-0000CD?style=for-the-badge&logo=appveyor&logoColor=white" alt="Download File Fix">
-    </a>
-    <a href="https://discord.gg/dwWsupz7v">
-      <img src="https://img.shields.io/badge/Discord-Join_Server-4169E1?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
-    </a>
-  </p>
-
-  <br>
-
-  <p>
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  </p>
-
-  <br>
-
-  <div style="max-width: 85%; margin: 0 auto;">
-    <img src="1.png" alt="Viestrap Main Overview" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(75, 0, 130, 0.4);">
-  </div>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=23&pause=1200&duration=2800&center=true&vCenter=true&width=850&color=8B5CF6&lines=Tr%C3%ACnh+kh%E1%BB%9Fi+%C4%91%E1%BB%99ng+Roblox+thay+th%E1%BA%BF;Mang+%C4%91%E1%BA%BFn+nhi%E1%BB%81u+t%C3%ADnh+n%C4%83ng+m%E1%BB%9F+r%E1%BB%99ng;Roblox+International+Experience"/>
 
 <br>
 
----
+<img src="https://img.shields.io/badge/Version-v1.0.2-8B5CF6?style=for-the-badge">
 
-<br>
+<img src="https://img.shields.io/badge/Platform-Windows-2563EB?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Status-Active-06B6D4?style=for-the-badge">
+
+<br><br>
+
+<!-- các nút Download / Discord -->
+
 
 # LƯU Ý !!!
 - Ai bật lên mà bị shutdown thì đừng lo, đó là 1 lỗi không nghiêm trọng đâu, nếu bị vậy thì ae đọc kỹ hướng dẫn tải và cách dùng của file fix nhé, cần thì có thể vô sv discord và inbox tài khoản discord của tôi, chúc ae sử dụng tốt !!!
