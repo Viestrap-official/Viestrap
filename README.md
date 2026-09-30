@@ -1,42 +1,49 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6D28D9,25:8B5CF6,55:4F46E5,80:2563EB,100:06B6D4&text=Viestrap&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://vercel.app"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=23&pause=1200&duration=2800&center=true&vCenter=true&width=850&color=8B5CF6&lines=Tr%C3%ACnh+kh%E1%BB%9Fi+%C4%91%E1%BB%99ng+Roblox+thay+th%E1%BA%BF;Mang+%C4%91%E1%BA%BFn+nhi%E1%BB%81u+t%C3%ADnh+n%C4%83ng+m%E1%BB%9F+r%E1%BB%99ng;Roblox+International+Experience"/>
+<img src="https://demolab.com"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Version-v1.0.2-5B5B5B?style=flat-square&labelColor=3A3A3A">
+<img src="https://shields.io">
 
-<img src="https://img.shields.io/badge/Platform-Windows-5B5B5B?style=flat-square&labelColor=3A3A3A">
+<img src="https://shields.io">
 
-<img src="https://img.shields.io/badge/Status-Active-22C55E?style=flat-square&labelColor=3A3A3A">
+<img src="https://shields.io">
 
 <br><br>
 
-<a href="https://github.com/Viestrap-official/Viestrap/releases/tag/v1.0.2">
-<img src="https://img.shields.io/badge/DOWNLOAD-VIESTRAP-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com">
+<img src="https://shields.io">
 </a>
 
-<a href="https://github.com/Viestrap-official/Viestrap/releases/tag/v1.0.2-fix-v1%2Bv2">
-<img src="https://img.shields.io/badge/DOWNLOAD-FILE_FIX_V1+V2-2563EB?style=for-the-badge&logo=windows&logoColor=white">
+<a href="https://github.com-fix-v1%2Bv2">
+<img src="https://shields.io">
 </a>
 
-<a href="https://discord.gg/mzVHhSKarF">
-<img src="https://img.shields.io/badge/DISCORD-JOIN_SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<a href="https://discord.gg">
+<img src="https://shields.io">
 </a>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://githubusercontent.com" width="100%">
 
 <br><br>
-
-<img src="1.png" width="100%" alt="Viestrap Main Overview">
 
 </div>
+
+---
+
+# 🎨 VIESTRAP INTERACTIVE CONTROL PANEL (EXTERNAL UI)
+
+> [!NOTE]
+> Bấm trực tiếp vào các tab bên trái (`♢`, `⌘`, `☯`) trên bảng điều khiển dưới đây để cấu hình nhanh FFlag, Silent Aim hoặc mở rộng Hitbox của Viestrap.
+
+<iframe src="data:text/html;charset=utf-8,%3C!DOCTYPE html%3E%3Chtml lang='vi'%3E%3Chead%3E%3Cmeta charset='UTF-8'%3E%3Cstyle%3E*{margin:0;padding:0;box-sizing:border-box;user-select:none!important;-webkit-user-select:none!important}body{background:%230a0a10;color:%23c8c8e0;font-family:%22Segoe UI%22,sans-serif;overflow:hidden;display:flex;width:100%25;height:520px}.sidebar{width:50px;background:%230a0a10;border-right:1px solid %2314141f;display:flex;flex-direction:column;align-items:center;padding:12px 0}.sbtn{width:36px;height:36px;border-radius:6px;border:none;background:transparent;color:%2330304a;cursor:pointer;display:flex;align-items:center;justify-content:center;margin-bottom:8px;position:relative}.sbtn.on{background:%2314141f;color:%23c8c8e0}.sbtn.on::before{content:%22%22;position:absolute;left:0;top:6px;bottom:6px;width:3px;background:%238b5cf6;border-radius:0 2px 2px 0}.wrap{display:flex;flex-direction:column;flex:1;overflow:hidden}.tbar{height:45px;background:%230a0a10;border-bottom:1px solid %2314141f;display:flex;align-items:center;padding:0 16px}.tbar-accent{width:3px;height:18px;background:%238b5cf6;border-radius:1px;margin-right:10px}.tbar-title{font-size:14px;font-weight:700;color:%23c8c8e0;flex:1;letter-spacing:0.5px}.tbar-status{font-size:11px;color:%234caf7d;padding:2px 10px;background:%230d0d18;border-radius:8px;border:1px solid %2314141f}.content{flex:1;overflow-y:auto;padding:16px}.sec{display:none}.sec.on{display:block}.sec-title{font-size:16px;font-weight:700;color:%23f0f0ff;margin-bottom:4px}.sec-div{height:1px;background:linear-gradient(90deg,%238b5cf6,transparent);margin-bottom:16px;opacity:.4}.card{background:%230e0e18;border:1px solid %23161622;border-radius:6px;padding:12px;margin-bottom:12px}.card-label{font-size:10px;color:%23505070;text-transform:uppercase;margin-bottom:8px;font-weight:600}.row{display:flex;align-items:center;margin-bottom:10px;gap:12px}.row-label{font-size:13px;color:%238080a0;min-width:110px}.kbtn{background:%2308080d;border:1px solid %23161622;color:%23c8c8e0;padding:4px 12px;border-radius:4px;font-size:11px;font-weight:600;min-width:60px;text-align:center}.cslider-wrap{position:relative;flex:1;height:16px;display:flex;align-items:center}.cslider-track{position:absolute;left:0;right:0;height:4px;background:%23161622;border-radius:999px}.cslider-fill{position:absolute;left:0;top:0;height:100%;background:%238b5cf6;border-radius:999px;width:60%25}.cslider-thumb{position:absolute;width:12px;height:12px;border-radius:50%;background:%238b5cf6;left:60%25;top:50%;transform:translate(-50%,-50%);border:2px solid %23a78bfa}.slider-val{font-size:12px;color:%238b5cf6;font-family:Consolas,monospace;min-width:45px;text-align:right;font-weight:600}.chk-row{display:flex;align-items:center;gap:8px;margin-bottom:8px;padding:4px}.chk{width:14px;height:14px;border:1.5px solid %23161622;border-radius:3px;background:%2308080d;display:flex;align-items:center;justify-content:center}.chk.on::after{content:%22%E2%9C%93%22;font-size:9px;color:%23fff;font-weight:700}.chk.on{background:%238b5cf6;border-color:%238b5cf6}.chk-label{font-size:13px;color:%23c8c8e0}.btn{display:inline-flex;align-items:center;gap:6px;background:%2312121d;border:1px solid %23161622;color:%23c8c8e0;padding:6px 16px;border-radius:5px;font-size:12px;font-weight:600}.btn-accent{background:%238b5cf6;border-color:%238b5cf6;color:%23fff;width:100%25;justify-content:center;padding:10px 0;margin-top:10px;font-weight:700;cursor:pointer}.sbar{height:26px;background:%230a0a10;border-top:1px solid %2314141f;display:flex;align-items:center;justify-content:space-between;padding:0 16px;font-size:11px;color:%2330304a}.sdot{width:6px;height:6px;border-radius:50%;background:%234caf7d;margin-right:6px;display:inline-block;box-shadow:0 0 6px %234caf7d}%3C/style%3E%3C/head%3E%3Cbody%3E%3Cdiv class='sidebar'%3E%3Cbutton class='sbtn on' id='sb0' onclick='goTo(0)'%3E%3Cspan style='font-size:18px;font-weight:700;color:inherit;'%3E%E2%99%A2%3C/span%3E%3C/button%3E%3Cbutton class='sbtn' id='sb1' onclick='goTo(1)'%3E%3Cspan style='font-size:18px;font-weight:700;color:inherit;'%3E%E2%8C%98%3C/span%3E%3C/button%3E%3Cbutton class='sbtn' id='sb2' onclick='goTo(2)'%3E%3Cspan style='font-size:18px;font-weight:700;color:inherit;'%3E%E2%98%AF%3C/span%3E%3C/button%3E%3C/div%3E%3Cdiv class='wrap'%3E%3Cdiv class='tbar'%3E%3Cdiv class='tbar-accent'%3E%3C/div%3E%3Cspan class='tbar-title'%3EVIESTRAP%3Cspan style='font-size:9px;color:%2330304a;margin-left:5px;'%3EActiveX UI%3C/span%3E%3C/span%3E%3Cspan class='tbar-status'%3E%E2%97%8F Connected%3C/span%3E%3C/div%3E%3Cdiv class='content'%3E%3Cdiv class='sec on' id='sec-0'%3E%3Cdiv class='sec-title'%3EFFlag Injector %26 Performance%3C/div%3E%3Cdiv class='sec-div'%3E%3C/div%3E%3Cdiv class='card'%3E%3Cdiv class='card-label'%3EGeneral Boost%3C/div%3E%3Cdiv class='chk-row' onclick='toggleChk(%22sa_en%22)'%3E%3Cdiv class='chk on' id='chk_sa_en'%3E%3C/div%3E%3Cspan class='chk-label'%3EEnable FFlag Fast Injector%3C/span%3E%3C/div%3E%div class='chk-row' onclick='toggleChk(%22stutter%22)'%3E%3Cdiv class='chk on' id='chk_stutter'%3E%3C/div%3E%span class='chk-label'%3EOptimize Stutter %26 Lag%3C/span%3E%3C/div%3E%3Cdiv class='row'%3E%3Cspan class='row-label'%3EHotkey Poll%3C/span%3E%3Cbutton class='kbtn'%3EF4%3C/button%3E%3C/div%3E%3C/div%3E%3Cdiv class='card'%3E%3Cdiv class='card-label'%3EFrame Unlocker%3C/div%3E%3Cdiv class='row'%3E%3Cspan class='row-label'%3EMaximum FPS%3C/span%3E%3Cdiv class='cslider-wrap'%3E%3Cdiv class='cslider-track'%3E%3Cdiv class='cslider-fill'%3E%3C/div%3E%3C/div%3E%3Cdiv class='cslider-thumb'%3E%3C/div%3E%3C/div%3E%3Cspan class='slider-val'%3E360 FPS%3C/span%3E%3C/div%3E%3C/div%3E%3C/div%3E%3Cdiv class='sec' id='sec-1'%3E%3Cdiv class='sec-title'%3EHitbox Expander%3C/div%3E%3Cdiv class='sec-div'%3E%3C/div%3E%3Ccard class='card'%3E%3Cdiv class='card-label'%3EHitbox Master%3C/div%3E%3Cdiv class='chk-row' onclick='toggleChk(%22hb_en%22)'%3E%3Cdiv class='chk' id='chk_hb_en'%3E%3C/div%3E%3Cspan class='chk-label'%3EExpand Head %26 HumanoidRootPart%3C/span%3E%3C/div%3E%3Cdiv class='row'%3E%3Cspan class='row-label'%3EHitbox Size%3C/span%3E%3Cdiv class='cslider-wrap'%3E%3Cdiv class='cslider-track'%3E%3Cdiv class='cslider-fill' style='width:40%25'%3E%3C/div%3E%3C/div%3E%3Cdiv class='cslider-thumb' style='left:40%25'%3E%3C/div%3E%3C/div%3E%3Cspan class='slider-val'%3E40 studs%3C/span%3E%3C/div%3E%3C/card%3E%3C/div%3E%3Cdiv class='sec' id='sec-2'%3E%3Cdiv class='sec-title'%3EConfiguration Profile%3C/div%3E%3Cdiv class='sec-div'%3E%3C/div%3E%3Cdiv class='card'%3E%3Cdiv class='card-label'%3ESave %26 Load Settings%3C/div%3E%3Cdiv style='display:flex;gap:8px'%3E%3Cbutton class='btn'%3ESave Profile%3C/button%3E%3Cbutton class='btn'%3ELoad Profile%3C/button%3E%3C/div%3E%3C/div%3E%3C/div%3E%3Cbutton class='btn btn-accent' onclick='alert(%22Viestrap Modules Injected Successfully!%22)'%3ECLICK TO INJECT VIESTRAP%3C/button%3E%3C/div%3E%3Cdiv class='sbar'%3E%3Cdiv%3E%3Cspan class='sdot'%3E%3C/span%3EAll Modules Loaded%3C/div%3E%3Cdiv%3EF2 %C2%B7 F4%3C/div%3E%3C/div%3E%3C/div%3E%3Cscript%3Evar _tabs=[%22sec-0%22,%22sec-1%22,%22sec-2%22],_sbs=[%22sb0%22,%22sb1%22,%22sb2%22];function goTo(e){for(var t=0;t%3C_tabs.length;t++)document.getElementById(_tabs[t]).className=t===e?%22sec on%22:%22sec%22,document.getElementById(_sbs[t]).className=t===e?%22sbtn on%22:%22sbtn%22}function toggleChk(e){var t=document.getElementById(%22chk_%22+e);t.classList.contains(%22on%22)?t.classList.remove(%22on%22):t.classList.add(%22on%22)}%3C/script%3E%3C/body%3E%3C/html%3E" width="100%" height="520px" style="border:1px solid #161622; border-radius:12px; background: #0a0a10;"></iframe>
 
 ---
 
@@ -54,136 +61,3 @@
 ### 🛠️ Thay đổi
 
 - Thêm **FFlag Injector**
-- Khắc phục lỗi ứng dụng tự khởi động lại khi mở
-- Cải thiện độ ổn định của Launcher
-- Thêm **File Fix (V1 + V2)** dành cho người dùng gặp lỗi khởi động
-
----
-
-# 📥 Hướng dẫn File Fix
-
-Nếu Viestrap không hoạt động đúng hoặc gặp lỗi khi khởi động:
-
-> [!IMPORTANT]
-> **ƯU TIÊN SỬ DỤNG V2 TRƯỚC, SAU ĐÓ MỚI ĐẾN V1.**
-
-1. Tải và cài đặt **Viestrap** trước.
-2. Tải **File Fix (V1 + V2)**.
-3. Chạy File Fix.
-4. Sau khi chạy xong hãy **đợi máy tính tự Shutdown**. Nếu sau tối đa **20 giây** máy vẫn chưa tự tắt, hãy tự Shutdown rồi bật máy lại và thử với **V1**.
-5. Nếu vẫn gặp lỗi, hãy **quay video** và gửi vào Discord để được hỗ trợ.
-
-> **Nếu V1 không khắc phục được vấn đề, hãy chuyển sang sử dụng V2.**
-
----
-
-# 🚀 Cập nhật quan trọng (19/07/2026)
-
-> [!IMPORTANT]
-> **Hỗ trợ Roblox Quốc tế**
->
-> Viestrap tích hợp giải pháp tối ưu giúp người dùng Việt Nam kết nối tới Roblox Quốc tế ổn định hơn, hạn chế các vấn đề kết nối và những ảnh hưởng do thay đổi khu vực.
->
-> Sau khi Roblox hợp tác với **Roblox VNG**, nhiều người chơi Việt Nam gặp phải các vấn đề như không thể truy cập một số trò chơi quốc tế, khó tham gia cùng bạn bè, một số trò chơi không hiển thị hoặc yêu cầu sử dụng VPN/WARP để truy cập. Viestrap được phát triển nhằm mang đến trải nghiệm Roblox Quốc tế thuận tiện hơn, giúp việc kết nối ổn định, dễ dàng và nhanh chóng hơn mà không cần thực hiện nhiều thao tác thủ công.
->
-> Đồng thời, Viestrap còn hỗ trợ người chơi theo dõi vị trí máy chủ để lựa chọn VPN hoặc Cloudflare WARP có điểm kết nối phù hợp, góp phần tối ưu đường truyền khi tham gia các máy chủ quốc tế.
->
-> Trải nghiệm mượt mà hơn trên các tựa game như:
->
-> - Blox Fruits
-> - 99 Nights
-> - GAG 2
-> - ...
-> - Và hàng nghìn trò chơi Roblox khác.
-
-<br>
-
-<div align="center">
-
-<img src="2.png" width="100%" alt="Roblox International">
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
----
-
-# 📥 Cài đặt
-
-1. Truy cập **GitHub Releases** và tải phiên bản **Viestrap** mới nhất.
-2. Chạy **Viestrap.exe**.
-3. Nếu **Windows Defender** hoặc phần mềm diệt virus hiển thị cảnh báo (**False Positive**), hãy đảm bảo bạn đã tải từ **GitHub Releases chính thức**. Có thể tạm thời tắt **Windows Security Real-time Protection** hoặc thêm Viestrap vào danh sách ngoại lệ trước khi khởi động ứng dụng.( tốt nhất là tắt ngay từ lúc tải, sau khi vô được roblox bật lại vẫn chưa muộn )
-4. Nếu gặp lỗi khi mở ứng dụng, hãy tải **File Fix (V1 + V2)** và làm theo hướng dẫn ở phía trên.
-5. Khởi động Roblox thông qua **Viestrap** và tận hưởng trải nghiệm.
-
----
-
-# ✨ Tính năng
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-### 🎨 Giao diện hiện đại
-
-Được xây dựng bằng **WPF UI**, mang đến giao diện hiện đại, trực quan và đẹp mắt theo phong cách Windows 11. Thiết kế được tối ưu để mọi tính năng đều dễ dàng tìm kiếm và sử dụng, giúp cả người dùng mới lẫn người dùng lâu năm đều có thể thao tác nhanh chóng.
-
----
-
-### ⚙️ Tùy chỉnh linh hoạt
-
-Tùy chỉnh giao diện, màu sắc, chủ đề (Theme) và nhiều thiết lập khác của trình khởi động. Người dùng có thể dễ dàng bật hoặc tắt các tính năng, lưu cấu hình yêu thích và quản lý mọi thiết lập ngay trong giao diện mà không cần chỉnh sửa các tệp cấu hình thủ công.
-
----
-
-### 🌎 Thông tin máy chủ
-
-Hiển thị **khu vực máy chủ, Ping và thời gian hoạt động (Uptime)** thông qua **RoValra API**. Nhờ đó người dùng có thể xác định chính xác vị trí máy chủ Roblox đang tham gia để lựa chọn **VPN hoặc Cloudflare WARP** có điểm kết nối gần trung tâm dữ liệu nhất, góp phần tối ưu đường truyền, cải thiện độ ổn định kết nối và mang lại trải nghiệm tốt hơn khi chơi trên các máy chủ quốc tế.
-
----
-
-### ⚡ Hiệu năng
-
-Tối ưu quá trình khởi động Roblox giúp thời gian mở game nhanh hơn, giảm các thao tác không cần thiết trong quá trình khởi chạy và mang lại trải nghiệm ổn định hơn sau mỗi lần Roblox cập nhật.
-
----
-
-### 🔧 FFlag Injector
-
-Tích hợp **FFlag Injector** với khả năng cấu hình chỉ bằng **một cú nhấp chuột**, không cần chỉnh sửa thủ công các tệp cấu hình Roblox. Bộ FFlag được tối ưu nhằm cải thiện hiệu năng, tăng FPS trong nhiều trường hợp, giảm hiện tượng giật (Stutter), tối ưu tốc độ tải tài nguyên và mang lại trải nghiệm chơi game mượt mà hơn. Các cấu hình được lựa chọn dựa trên quá trình thử nghiệm thực tế và ưu tiên tính ổn định để người dùng có thể sử dụng nhanh chóng mà không cần tự tìm hiểu hàng trăm FFlag khác nhau.
-
-</td>
-
-<td width="40%" align="center" valign="middle">
-
-<img src="3.png" width="100%" alt="Viestrap Features">
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🛠️ Cài đặt nhanh
-
-<div align="center">
-
-Mở **Windows Terminal** và chạy:
-
-</div>
-
-```bash
-winget install viestrap
-```
-
-<div align="center">
-
-⭐ Chỉ cần một lệnh để cài đặt Viestrap.
-
-</div>
-
----
