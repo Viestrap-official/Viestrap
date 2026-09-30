@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/DOWNLOAD-FILE_FIX_V1+V2-2563EB?style=for-the-badge&logo=windows&logoColor=white">
 </a>
 
-<a href="https://discord.gg/dwWsupz7v">
+<a href="https://discord.gg/mzVHhSKarF">
 <img src="https://img.shields.io/badge/DISCORD-JOIN_SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
@@ -49,7 +49,7 @@
 
 # 🔧 Cập nhật Viestrap V1.0.2 — Sửa lỗi & Cải tiến
 
-## 📅 Cập nhật: 22/07/2026
+## 📅 Cập nhật: 22/09/2026
 
 ### 🛠️ Thay đổi
 
